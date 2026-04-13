@@ -56,8 +56,7 @@ The Attendance Management System (AMS) is a comprehensive solution tailored to t
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/iam-baivab/AMS.git
-   cd AMS
+   git clone https://github.com/AyanKumarDey/AttendanceManagementSystem.git
    ```
 
 2. **Run JAR**:
